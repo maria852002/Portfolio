@@ -17,7 +17,7 @@
     <h1>Hello, I'm <span>Maria Sibu</span></h1>
     <h2><span class="typed-text"></span><span class="cursor">|</span></h2>
     <p>I specialize in manual & automation testing with expertise in Selenium, Java, and SQL.</p>
-    <a href="/Maria_Sibu_Resume.pdf" class="btn" download>Download Resume</a>
+    <a href="/Portfolio/Maria_Sibu_Resume.pdf" class="btn" download>Download Resume</a>
   </section>
 
   <section class="about fade-in" id="about">
